@@ -48,6 +48,12 @@
   <br/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseafmoreira&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
+<p align="left">
+    <a href="https://github.com/joseafmoreira?tab=followers">
+         <img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/joseafmoreira?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+    <a href="https://github.com/joseafmoreira?tab=repositories&sort=stargazers">
+        <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/joseafmoreira?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+</p>
 
 <br/><br/>
 
