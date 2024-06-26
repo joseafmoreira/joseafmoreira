@@ -1,3 +1,5 @@
+<hr/>
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=joseafmoreira.joseafmoreira" />
 
 <h1 align="center">
@@ -52,11 +54,3 @@
 <br/><br/>
 
 <hr/>
-
-<br/>
-
-<div align="center">
-<a href='https://paypal.me/joseafmoreira' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://th.bing.com/th/id/OIP.XYaGtQiQWCuNc7Vi0hs8ugHaCt?rs=1&pid=ImgDetMain' border='0' alt='Donate' /></a>
-</div>
-
-<br/>
