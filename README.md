@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **nothing**
+ 🔭 I’m currently studying at **Escola Superior de Tecnologia e Gestão - Institituto Politécnico do Porto**
  
- 🌱 I’m currently learning **Java**
+ 🌱 I’m currently learning **Java, C, Python**
 
 💬 Even though I'm not an expert, I'm always happy to help so feel free to ask me **anything [here](https://github.com/joseafmoreira/joseafmoreira/issues)**
 
