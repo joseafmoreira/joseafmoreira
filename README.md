@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Java**
 
-💬 Even though I'm not an expert, I'm always happy to help so you can ask me about **anything [here](https://github.com/joseafmoreira/joseafmoreira/issues)**
+💬 Even though I'm not an expert, I'm always happy to help so feel free to ask me **anything [here](https://github.com/joseafmoreira/joseafmoreira/issues)**
 
 </div>
 
