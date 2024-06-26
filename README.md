@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently studying at **Escola Superior de Tecnologia e Gestão - Institituto Politécnico do Porto**
+ 🔭 I’m currently studying at **[Escola Superior de Tecnologia e Gestão](https://www.estg.ipp.pt/)**
  
  🌱 I’m currently learning **Java, C, Python**
 
