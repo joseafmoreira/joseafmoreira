@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working at **[BaseTx Consulting]([https://www.estg.ipp.pt/](https://basetx.com/))** as a developer
+ 🔭 I’m currently working at **[BaseTx Consulting]([https://basetx.com/])** as a developer
  
  🌱 I’m currently using **C#, T-SQL, Kalipso**
 
