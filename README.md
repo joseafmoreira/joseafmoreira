@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently studying at **[Escola Superior de Tecnologia e Gestão](https://www.estg.ipp.pt/)**
+ 🔭 I’m currently working at **[BaseTx Consulting]([https://www.estg.ipp.pt/](https://basetx.com/))** as a developer
  
- 🌱 I’m currently learning **Java, C, Python**
+ 🌱 I’m currently using **C#, T-SQL, Kalipso**
 
 💬 Even though I'm not an expert, I'm always happy to help so feel free to ask me **anything [here](https://github.com/joseafmoreira/joseafmoreira/issues)**
 
@@ -23,8 +23,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,express,mongodb,c,java" /><br>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,java" /><br>
 </div>
 
 <br/>
